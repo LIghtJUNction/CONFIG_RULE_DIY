@@ -29,7 +29,7 @@
 
 
 ### 如何自定义
-1. fork 本仓库：[Fork zhanyeye/clash-rules-lite](https://github.com/zhanyeye/clash-rules-lite/fork) 
+1. fork 本仓库：[https://github.com/LIghtJUNction/CONFIG_RULE_DIY](https://github.com/LIghtJUNction/CONFIG_RULE_DIY)
 2. 触发 GitHub Action 中的 `Generate Rules for Clash` 工作流
 3. 编辑 `xx-rules.txt` 以自定义规则
 4. 在对应的 Clash 上刷新配置文件
